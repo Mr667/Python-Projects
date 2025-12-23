@@ -1,0 +1,15 @@
+Headline: Day 1/30: Back to Basics – The Foundation of Logic 🚀
+
+Body: Today marks Day 1 of my #30DaysOfPython challenge! I’m starting from the ground up to ensure my foundation for Business Analytics is rock solid.
+
+Today’s Project: A precision-based calculator designed to handle decimal inputs.
+
+Why this matters for Analytics:
+
+Data Types Matter: I used float() instead of int(). In the world of finance and data, losing those decimal points means losing money.
+
+Conditional Logic: Using the if-elif-else structure is the "brain" of any automated system. It allows the program to navigate through different business rules based on user input.
+
+Error Handling: The else statement at the end serves as a basic validation tool to handle "dirty data" or invalid inputs.
+
+Consistency is key, and I’m excited to see how these simple logic blocks evolve into complex data models over the next 29 days!
